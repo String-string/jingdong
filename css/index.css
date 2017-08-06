@@ -1,4 +1,5 @@
 .public-top{
+	width:100%;
 	height: 31px;
 	background: #efefef url('../images/top.png')  repeat-x;
 }
