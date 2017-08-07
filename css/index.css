@@ -1,10 +1,14 @@
 .public-top{
+<<<<<<< HEAD
 	width: 100%;
+=======
+	width:100%;
+>>>>>>> a70daeb269efd741daafe24deb4837c55d1203f8
 	height: 31px;
 	background: #efefef url('../images/top.png')  repeat-x;
 }
 #shortcut{
-width: 1210px;
+width: 100%;
 height: 30px;
 line-height: 30px;
 margin: 0px auto;/*水平居中*/
